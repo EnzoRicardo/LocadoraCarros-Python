@@ -25,5 +25,4 @@ Este projeto é uma aplicação de locadora de carros feita em Python com interf
 - Python 3.x
 - Biblioteca `customtkinter`
 
-## Autor
-Criado por [Seu Nome].
+
